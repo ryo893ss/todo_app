@@ -3,4 +3,6 @@
     <string name="navigation_todo">やること</string>
     <string name="navigation_calendar">カレンダー</string>
     <string name="navigation_remind">リマインド</string>
+    <string name="remind_no_title">リマインドを設定してみよう。</string>
+    <string name="remind_add_title">リマインドを追加する</string>
 </resources>
